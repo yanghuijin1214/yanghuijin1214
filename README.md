@@ -19,6 +19,7 @@ Here are some ideas to get you started:
  Hi there! I'm backend developer using Spring, Django, Node.js.
  
 ## 💪 My Skills
+ <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 
 
 ## ✏👔 My PortFolio
