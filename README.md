@@ -24,7 +24,5 @@
   
 
 
- ## 👔 My PortFolio 
- https://www.notion.so/Portfolio-a3f8b3e1fa9d44a3bbf28f40069af4f9
 
   </div>
